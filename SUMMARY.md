@@ -9,4 +9,5 @@
     * [Awesome Javascript CN](javascript-cn/README.md)
 * [Books](books/free-programming-books.md)
     * [免费的编程中文书籍索引](books/free-programming-books-zh_CN/README.md)
+    * [PHP书索引](books/php-books.md)
 
